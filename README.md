@@ -1,1 +1,1 @@
-A weather app made using .NET MAUI
+# A weather app made using .NET MAUI
