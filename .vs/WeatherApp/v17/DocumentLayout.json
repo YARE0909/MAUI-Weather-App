@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\prady\\Coding\\Apps\\MAUI\\WeatherApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A43FD63-4D25-4D78-9339-2B7F0DF73997}|WeatherApp\\WeatherApp.csproj|c:\\users\\prady\\coding\\apps\\maui\\weatherapp\\weatherapp\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3A43FD63-4D25-4D78-9339-2B7F0DF73997}|WeatherApp\\WeatherApp.csproj|solutionrelative:weatherapp\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A43FD63-4D25-4D78-9339-2B7F0DF73997}|WeatherApp\\WeatherApp.csproj|c:\\users\\prady\\coding\\apps\\maui\\weatherapp\\weatherapp\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A43FD63-4D25-4D78-9339-2B7F0DF73997}|WeatherApp\\WeatherApp.csproj|solutionrelative:weatherapp\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A43FD63-4D25-4D78-9339-2B7F0DF73997}|WeatherApp\\WeatherApp.csproj|c:\\users\\prady\\coding\\apps\\maui\\weatherapp\\weatherapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3A43FD63-4D25-4D78-9339-2B7F0DF73997}|WeatherApp\\WeatherApp.csproj|solutionrelative:weatherapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A43FD63-4D25-4D78-9339-2B7F0DF73997}|WeatherApp\\WeatherApp.csproj|c:\\users\\prady\\coding\\apps\\maui\\weatherapp\\weatherapp\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A43FD63-4D25-4D78-9339-2B7F0DF73997}|WeatherApp\\WeatherApp.csproj|solutionrelative:weatherapp\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A43FD63-4D25-4D78-9339-2B7F0DF73997}|WeatherApp\\WeatherApp.csproj|c:\\users\\prady\\coding\\apps\\maui\\weatherapp\\weatherapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A43FD63-4D25-4D78-9339-2B7F0DF73997}|WeatherApp\\WeatherApp.csproj|solutionrelative:weatherapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A43FD63-4D25-4D78-9339-2B7F0DF73997}|WeatherApp\\WeatherApp.csproj|c:\\users\\prady\\coding\\apps\\maui\\weatherapp\\weatherapp\\models\\viewmodels\\weatherinfopageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A43FD63-4D25-4D78-9339-2B7F0DF73997}|WeatherApp\\WeatherApp.csproj|solutionrelative:weatherapp\\models\\viewmodels\\weatherinfopageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A43FD63-4D25-4D78-9339-2B7F0DF73997}|WeatherApp\\WeatherApp.csproj|c:\\users\\prady\\coding\\apps\\maui\\weatherapp\\weatherapp\\models\\apimodels\\weatherapiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A43FD63-4D25-4D78-9339-2B7F0DF73997}|WeatherApp\\WeatherApp.csproj|solutionrelative:weatherapp\\models\\apimodels\\weatherapiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A43FD63-4D25-4D78-9339-2B7F0DF73997}|WeatherApp\\WeatherApp.csproj|c:\\users\\prady\\coding\\apps\\maui\\weatherapp\\weatherapp\\pages\\weatherinfopage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3A43FD63-4D25-4D78-9339-2B7F0DF73997}|WeatherApp\\WeatherApp.csproj|solutionrelative:weatherapp\\pages\\weatherinfopage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A43FD63-4D25-4D78-9339-2B7F0DF73997}|WeatherApp\\WeatherApp.csproj|c:\\users\\prady\\coding\\apps\\maui\\weatherapp\\weatherapp\\services\\weatherapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A43FD63-4D25-4D78-9339-2B7F0DF73997}|WeatherApp\\WeatherApp.csproj|solutionrelative:weatherapp\\services\\weatherapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A43FD63-4D25-4D78-9339-2B7F0DF73997}|WeatherApp\\WeatherApp.csproj|c:\\users\\prady\\coding\\apps\\maui\\weatherapp\\weatherapp\\pages\\weatherinfopage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A43FD63-4D25-4D78-9339-2B7F0DF73997}|WeatherApp\\WeatherApp.csproj|solutionrelative:weatherapp\\pages\\weatherinfopage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A43FD63-4D25-4D78-9339-2B7F0DF73997}|WeatherApp\\WeatherApp.csproj|c:\\users\\prady\\coding\\apps\\maui\\weatherapp\\weatherapp\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A43FD63-4D25-4D78-9339-2B7F0DF73997}|WeatherApp\\WeatherApp.csproj|solutionrelative:weatherapp\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\prady\\Coding\\Apps\\MAUI\\WeatherApp\\WeatherApp\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "WeatherApp\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\prady\\Coding\\Apps\\MAUI\\WeatherApp\\WeatherApp\\AppShell.xaml.cs",
+              "RelativeToolTip": "WeatherApp\\AppShell.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T10:05:54.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\prady\\Coding\\Apps\\MAUI\\WeatherApp\\WeatherApp\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "WeatherApp\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\prady\\Coding\\Apps\\MAUI\\WeatherApp\\WeatherApp\\MauiProgram.cs",
+              "RelativeToolTip": "WeatherApp\\MauiProgram.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T10:02:55.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\prady\\Coding\\Apps\\MAUI\\WeatherApp\\WeatherApp\\AppShell.xaml",
+              "RelativeDocumentMoniker": "WeatherApp\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\prady\\Coding\\Apps\\MAUI\\WeatherApp\\WeatherApp\\AppShell.xaml",
+              "RelativeToolTip": "WeatherApp\\AppShell.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-10T10:02:18.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\prady\\Coding\\Apps\\MAUI\\WeatherApp\\WeatherApp\\App.xaml",
+              "RelativeDocumentMoniker": "WeatherApp\\App.xaml",
+              "ToolTip": "C:\\Users\\prady\\Coding\\Apps\\MAUI\\WeatherApp\\WeatherApp\\App.xaml",
+              "RelativeToolTip": "WeatherApp\\App.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-10T10:02:12.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\prady\\Coding\\Apps\\MAUI\\WeatherApp\\WeatherApp\\App.xaml.cs",
+              "RelativeDocumentMoniker": "WeatherApp\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\prady\\Coding\\Apps\\MAUI\\WeatherApp\\WeatherApp\\App.xaml.cs",
+              "RelativeToolTip": "WeatherApp\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T10:02:10.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WeatherInfoPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\prady\\Coding\\Apps\\MAUI\\WeatherApp\\WeatherApp\\Pages\\WeatherInfoPage.xaml.cs",
+              "RelativeDocumentMoniker": "WeatherApp\\Pages\\WeatherInfoPage.xaml.cs",
+              "ToolTip": "C:\\Users\\prady\\Coding\\Apps\\MAUI\\WeatherApp\\WeatherApp\\Pages\\WeatherInfoPage.xaml.cs",
+              "RelativeToolTip": "WeatherApp\\Pages\\WeatherInfoPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T09:30:14.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WeatherAPIService.cs",
+              "DocumentMoniker": "C:\\Users\\prady\\Coding\\Apps\\MAUI\\WeatherApp\\WeatherApp\\Services\\WeatherAPIService.cs",
+              "RelativeDocumentMoniker": "WeatherApp\\Services\\WeatherAPIService.cs",
+              "ToolTip": "C:\\Users\\prady\\Coding\\Apps\\MAUI\\WeatherApp\\WeatherApp\\Services\\WeatherAPIService.cs",
+              "RelativeToolTip": "WeatherApp\\Services\\WeatherAPIService.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAewBgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T08:29:06.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherAPIResponse.cs",
+              "DocumentMoniker": "C:\\Users\\prady\\Coding\\Apps\\MAUI\\WeatherApp\\WeatherApp\\Models\\APIModels\\WeatherAPIResponse.cs",
+              "RelativeDocumentMoniker": "WeatherApp\\Models\\APIModels\\WeatherAPIResponse.cs",
+              "ToolTip": "C:\\Users\\prady\\Coding\\Apps\\MAUI\\WeatherApp\\WeatherApp\\Models\\APIModels\\WeatherAPIResponse.cs",
+              "RelativeToolTip": "WeatherApp\\Models\\APIModels\\WeatherAPIResponse.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAjwAsAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T08:23:15.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherInfoPageViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\prady\\Coding\\Apps\\MAUI\\WeatherApp\\WeatherApp\\Models\\ViewModels\\WeatherInfoPageViewModel.cs",
+              "RelativeDocumentMoniker": "WeatherApp\\Models\\ViewModels\\WeatherInfoPageViewModel.cs",
+              "ToolTip": "C:\\Users\\prady\\Coding\\Apps\\MAUI\\WeatherApp\\WeatherApp\\Models\\ViewModels\\WeatherInfoPageViewModel.cs",
+              "RelativeToolTip": "WeatherApp\\Models\\ViewModels\\WeatherInfoPageViewModel.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAADwvzMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T08:10:04.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WeatherInfoPage.xaml",
+              "DocumentMoniker": "C:\\Users\\prady\\Coding\\Apps\\MAUI\\WeatherApp\\WeatherApp\\Pages\\WeatherInfoPage.xaml",
+              "RelativeDocumentMoniker": "WeatherApp\\Pages\\WeatherInfoPage.xaml",
+              "ToolTip": "C:\\Users\\prady\\Coding\\Apps\\MAUI\\WeatherApp\\WeatherApp\\Pages\\WeatherInfoPage.xaml",
+              "RelativeToolTip": "WeatherApp\\Pages\\WeatherInfoPage.xaml",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAswBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-10T07:53:55.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Constants.cs",
+              "DocumentMoniker": "C:\\Users\\prady\\Coding\\Apps\\MAUI\\WeatherApp\\WeatherApp\\Constants.cs",
+              "RelativeDocumentMoniker": "WeatherApp\\Constants.cs",
+              "ToolTip": "C:\\Users\\prady\\Coding\\Apps\\MAUI\\WeatherApp\\WeatherApp\\Constants.cs",
+              "RelativeToolTip": "WeatherApp\\Constants.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T09:13:19.77Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
